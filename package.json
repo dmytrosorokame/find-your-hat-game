@@ -1,20 +1,11 @@
 {
-  "name": "find-your-hat-game",
+  "name": "find-your-hat",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dmytrosorokame/find-your-hat-game.git"
-  },
-  "keywords": [],
-  "author": "",
+  "description": "A terminal maze-solving game.",
+  "main": "main.js",
+  "author": "Codecademy",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dmytrosorokame/find-your-hat-game/issues"
-  },
-  "homepage": "https://github.com/dmytrosorokame/find-your-hat-game#readme"
+  "dependencies": {
+    "prompt-sync": "^4.1.7"
+  }
 }
